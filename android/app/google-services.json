@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291505344960",
+    "project_id": "tember-5a916",
+    "storage_bucket": "tember-5a916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291505344960:android:b0dba7fdae550fc5acf825",
+        "android_client_info": {
+          "package_name": "com.example.tember"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsu1KlkiN-kK-LeHhMNuvm0Htxb5EeShM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
