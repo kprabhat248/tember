@@ -2,7 +2,7 @@
 
 # Flutter Social Video Post App
 
-This Flutter application is a social media platform that allows users to view and post videos. It integrates Firebase and Firestore for user authentication, database, and storage purposes. OTP authentication using SHA-1 and SHA-256 encryption methods is implemented for user login.
+This Flutter application is a social media platform (built from scratch ) that allows users to view and post videos. It integrates Firebase and Firestore for user authentication, database, and storage purposes. OTP authentication using SHA-1 and SHA-256 encryption methods is implemented for user login.
 
 ## Features
 
