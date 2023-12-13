@@ -1,16 +1,19 @@
 # tember
 
-A new Flutter project.
+# Flutter Social Video Post App
 
-## Getting Started
+This Flutter application is a social media platform that allows users to view and post videos. It integrates Firebase and Firestore for user authentication, database, and storage purposes. OTP authentication using SHA-1 and SHA-256 encryption methods is implemented for user login.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **OTP Authentication**: Users can authenticate using a phone number with OTP verification using SHA-1 and SHA-256 encryption methods.
+- **Video Viewing**: Users can view videos shared by other users.
+- **Video Recording**: Ability to record and post videos directly within the app.
+- **Firestore Integration**: Storage of user information and video posts in Firestore.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your_username/your_flutter_project.git
